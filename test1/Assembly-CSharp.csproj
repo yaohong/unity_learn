@@ -49,7 +49,7 @@
      <Compile Include="Assets\Scripts\GameControllser.cs" />
      <Compile Include="Assets\Scripts\SwanMove.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>H:/work/my_unity/test1/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>E:/unity_work/unity_learn/test1/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
